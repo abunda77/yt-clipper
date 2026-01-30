@@ -3,10 +3,22 @@
 [![Discord](https://img.shields.io/badge/Join-Discord-5865F2?logo=discord&logoColor=white)](https://s.id/ytsdiscord)
 [![GitHub Stars](https://img.shields.io/github/stars/jipraks/yt-short-clipper?style=social)](https://github.com/jipraks/yt-short-clipper)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jipraks/yt-short-clipper/blob/main/colab_demo.ipynb)
 
 🎬 **Automated YouTube to Short-Form Content Pipeline**
 
 Transform long-form YouTube videos (podcasts, interviews, vlogs) into engaging short-form content for TikTok, Instagram Reels, and YouTube Shorts — all with a single command.
+
+## 🌐 Web App (Google Colab)
+
+Run the clipper directly in your browser without installing anything on your computer!
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jipraks/yt-short-clipper/blob/main/colab_demo.ipynb)
+
+1. Click the **Open in Colab** badge above.
+2. Run the **Setup** cell (Play button).
+3. Run the **Start App** cell.
+4. Click the public link (e.g., `gradio.live`) to open the Web UI.
 
 ## 🖥️ Desktop App (Recommended)
 
