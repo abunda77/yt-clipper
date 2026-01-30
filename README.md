@@ -13,7 +13,7 @@ Transform long-form YouTube videos (podcasts, interviews, vlogs) into engaging s
 
 Run the clipper directly in your browser without installing anything on your computer!
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jipraks/yt-short-clipper/blob/main/colab_demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abunda77/yt-clipper.git/blob/main/colab_demo.ipynb)
 
 1. Click the **Open in Colab** badge above.
 2. Run the **Setup** cell (Play button).
